@@ -17,3 +17,5 @@ Criação de um app simples para cadastrar participantes em em eventos. (Fins de
 	</tr>
 </table>
 
+
+Curso: `Ignite` `RocketSeat` `React-Native`
